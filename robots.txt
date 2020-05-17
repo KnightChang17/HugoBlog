@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://knightchang17.github.io/HugoBlog/sitemap.xml
