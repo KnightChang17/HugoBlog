@@ -5,8 +5,33 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 09:13:05 +0800</lastBuildDate>
     
         <atom:link href="https://KnightChang17.github.io/HugoBlog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>My First Post</title>
+        <link>https://KnightChang17.github.io/HugoBlog/posts/my-first-post/</link>
+        <pubDate>Mon, 18 May 2020 09:13:22 +0800</pubDate>
+        
+        <guid>https://KnightChang17.github.io/HugoBlog/posts/my-first-post/</guid>
+        <description>My New Hugo Site https://KnightChang17.github.io/HugoBlog/posts/my-first-post/ -- https://KnightChang17.github.io/HugoBlog/posts/my-first-post/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>About</title>
+        <link>https://KnightChang17.github.io/HugoBlog/about/</link>
+        <pubDate>Mon, 18 May 2020 09:13:05 +0800</pubDate>
+        
+        <guid>https://KnightChang17.github.io/HugoBlog/about/</guid>
+        <description>My New Hugo Site https://KnightChang17.github.io/HugoBlog/about/ -&lt;p&gt;This is test&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://KnightChang17.github.io/HugoBlog/images/chinese.jpg&#34; alt=&#34;the image&#34;&gt;&lt;/p&gt;
+- https://KnightChang17.github.io/HugoBlog/about/ - </description>
+        </item>
     
     
   </channel>

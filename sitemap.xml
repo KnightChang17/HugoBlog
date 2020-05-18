@@ -3,15 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://KnightChang17.github.io/HugoBlog/categories/</loc>
+    <loc>https://KnightChang17.github.io/HugoBlog/posts/my-first-post/</loc>
+    <lastmod>2020-05-18T09:13:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KnightChang17.github.io/HugoBlog/posts/</loc>
+    <lastmod>2020-05-18T09:13:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KnightChang17.github.io/HugoBlog/tags/123/</loc>
+    <lastmod>2020-05-18T09:13:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KnightChang17.github.io/HugoBlog/tags/456/</loc>
+    <lastmod>2020-05-18T09:13:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KnightChang17.github.io/HugoBlog/about/</loc>
+    <lastmod>2020-05-18T09:13:05+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://KnightChang17.github.io/HugoBlog/</loc>
+    <lastmod>2020-05-18T09:13:05+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://KnightChang17.github.io/HugoBlog/tags/</loc>
+    <lastmod>2020-05-18T09:13:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://KnightChang17.github.io/HugoBlog/categories/</loc>
   </url>
   
 </urlset>
